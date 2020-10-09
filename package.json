@@ -1,6 +1,6 @@
 {
   "name": "electron-sample",
-  "version": "1.0.5",
+  "version": "1.2.1",
   "description": "",
   "main": "main.js",
   "repository": {
@@ -13,7 +13,7 @@
     "build": "electron-builder build --mac --win --publish never",
     "deploy": "electron-builder build --mac --win --publish always"
   },
-  "author": "",
+  "author": "MWare",
   "license": "ISC",
   "devDependencies": {
     "electron": "10.1.3",

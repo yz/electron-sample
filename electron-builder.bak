@@ -1,0 +1,6 @@
+appId: com.example.ElectronAutoUpdate
+publish:
+  provider: "github"
+  token: d9d3f36ea14d7cbf91c91ac6e615ae99222e1529
+  vPrefixedTagName: true
+  publishAutoUpdate: true
